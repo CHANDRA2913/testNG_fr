@@ -1,0 +1,14 @@
+<suite name="chandu"> 
+
+<test name="Reports">
+<classes>
+<class name="mouli_frame.August12_2">
+
+</class>
+<class name="mouli_frame.SecondtestNG">
+</class>
+<class name="mouli_frame.Thirdtestng">
+</class>
+</classes>
+</test>
+</suite>
